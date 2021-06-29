@@ -1,6 +1,7 @@
-## Classificação de Séries Temporais de Única Classe (OCC) e Com Exemplos Positivos e Não Rotulados (PUL)
+# One-Class Classification (OCC) and Positive-Unlabeled Learning (PUL) for Time Series Data 
 
-### Projeto de Iniciação Científica contemplado com a bolsa FAPESP. <br/>
-O objetivo deste projeto é desenvolver algoritmos de classificação de séries temporais e estudar suas aplicabilidades nos cenários de OCC e PUL. Este repositório tem como finalidade armazenar os códigos desenvolvidos e resultados obtidos nessa pesquisa.
+## Undergraduate Research supported by FAPESP Scientific Initiation Scholarship. <br/>
 
-Para analisar os algoritmos, utilizamos os datasets do [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
+This research aims to study time series classification techniques' applicability in the one-class classification and positive-unlabeled learning tasks. The goal of this repository is to store both the source codes developed and the results obtained in this research. 
+
+To test and evaluate the algorithms, we use the datasets contained in the [UCR Time Series Classification Archive](https://www.cs.ucr.edu/~eamonn/time_series_data_2018/).
